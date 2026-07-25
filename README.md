@@ -117,7 +117,7 @@ The project uses the following tables:
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - MySQL
 - SQL
@@ -137,17 +137,6 @@ This project demonstrates practical SQL skills including:
 
 ---
 
-##  Future Improvements
 
-- Create SQL Views
-- Add Stored Procedures
-- Build Indexes for optimization
-- Develop interactive Power BI Dashboard
-- Create Tableau Dashboard
----
 
-## Author
 
-**Nithish G L**
-
-If you found this project helpful, feel free to ⭐ the repository.
